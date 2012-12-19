@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakOutMethod", "BreakOutMethod\BreakOutMethod.csproj", "{5D93F163-422A-4475-A0EA-2DB845DE2631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDog", "TestDog\TestDog.csproj", "{BCCF3018-F95E-4B03-805B-98BCEAC22C22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{65EB76AA-A181-42BB-BF18-0DAC94B3FDA9}"
+	ProjectSection(SolutionItems) = preProject
+		BreakOutMethod.vsmdi = BreakOutMethod.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = BreakOutMethod.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D93F163-422A-4475-A0EA-2DB845DE2631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D93F163-422A-4475-A0EA-2DB845DE2631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D93F163-422A-4475-A0EA-2DB845DE2631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D93F163-422A-4475-A0EA-2DB845DE2631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCF3018-F95E-4B03-805B-98BCEAC22C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCF3018-F95E-4B03-805B-98BCEAC22C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCF3018-F95E-4B03-805B-98BCEAC22C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCF3018-F95E-4B03-805B-98BCEAC22C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

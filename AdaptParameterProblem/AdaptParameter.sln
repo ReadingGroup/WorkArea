@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptParameter", "AdaptParameter\AdaptParameter.csproj", "{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91CEC5B4-C882-4550-9127-F25D789E2D8F}"
+	ProjectSection(SolutionItems) = preProject
+		AdaptParameter.vsmdi = AdaptParameter.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptParameterTest", "AdaptParameterTest\AdaptParameterTest.csproj", "{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = AdaptParameter.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5DA6C664-2B93-4438-9C88-5EA5211A0B0F}.Release|Win32.ActiveCfg = Release|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2CEDF6C3-A626-4C74-B1CE-B446898C76BC}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
