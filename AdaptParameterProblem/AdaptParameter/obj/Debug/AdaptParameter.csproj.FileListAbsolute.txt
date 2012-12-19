@@ -1,6 +1,0 @@
-D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameter\bin\Debug\AdaptParameter.dll
-D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameter\bin\Debug\AdaptParameter.pdb
-D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameter\obj\Debug\ResolveAssemblyReference.cache
-D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameter\obj\Debug\AdaptParameter.dll
-D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameter\obj\Debug\AdaptParameter.pdb
-D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameter\bin\Debug\Moq.dll
