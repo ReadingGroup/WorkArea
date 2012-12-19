@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using AdaptParameter;
+using Moq;
 
 namespace AdaptParameterTest
 {
@@ -11,7 +12,11 @@ namespace AdaptParameterTest
         {
             var sut = new ClassNeedTest();
 
-            Assert.AreEqual(1, sut.MethodNeedTesting(new ReadOnlyObject()));
+            var mock = new Mock<IReadOnlyInterface>();
+
+            mock.Setup(foo => foo.Return1()).Returns(1);
+
+            Assert.AreEqual(1, sut.MethodNeedTesting(mock.Object));
         }
     }
 }

@@ -1,0 +1,8 @@
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\bin\Debug\AdaptParameterTest.dll
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\bin\Debug\AdaptParameterTest.pdb
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\bin\Debug\AdaptParameter.dll
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\bin\Debug\AdaptParameter.pdb
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\obj\Debug\AdaptParameterTest.dll
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\obj\Debug\AdaptParameterTest.pdb
+D:\Documents\GitHub\WorkArea\AdaptParameterProblem\AdaptParameterTest\bin\Debug\Moq.dll
